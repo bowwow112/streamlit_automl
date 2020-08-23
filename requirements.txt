@@ -24,7 +24,7 @@ docutils==0.15.2
 entrypoints==0.3
 enum-compat==0.0.3
 future==0.18.2
-h2o==3.30.1.1
+h2o==3.30.0.7
 htmlmin==0.1.12
 idna==2.10
 ImageHash==4.1.0
