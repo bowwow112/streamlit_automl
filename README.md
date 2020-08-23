@@ -7,3 +7,6 @@ Run pandas_profiling and h2o_automl using streamlit.
 1. file upload
 2. choose target variable
 3. choose training time
+
+## heroku sample
+https://streamlitautoml.herokuapp.com/
